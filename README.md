@@ -1,229 +1,268 @@
 <div align="center">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="420">
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true"
+alt="Hello Coders"
+width="60%"/>
+
+<br>
+
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true"
+alt="Developer Working"
+width="40%"/>
+
+<br><br>
 
 # Mohamed Abdelrahman
 
 ### Software Developer • Security Enthusiast • Linux & AI
 
-`Python` · `C` · `C++` · `Rust` · `Dart` · `Linux` · `Security` · `AI`
+**Python • C • C++ • Rust • Dart • Linux • Security • AI**
 
-<img src="https://komarev.com/ghpvc/?username=Mohamed-Abdelrahman0&label=Profile%20Views&color=00e5b0&style=flat-square">
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Mohamed-Abdelrahman0&style=flat&color=00E5B0&label=PROFILE+VIEWS"
+alt="Profile Views"/>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🧠 About Me
 
-I'm **Mohamed Abdelrahman**, a software developer interested in building things from the ground up and understanding how they work under the hood.
+I'm a software developer who enjoys **building things, exploring systems, and understanding how software works under the hood.**
 
 My main interests are:
 
-* 🐍 Python development & automation
-* ⚙️ C / C++ and low-level programming
-* 🐧 Linux & system programming
-* 🔐 Cybersecurity & reverse engineering
-* 📱 Flutter & mobile development
-* 🤖 AI, LLMs & local AI systems
-* 🧠 Problem solving and technical experimentation
+* 🐧 **Linux & Systems Programming**
+* 🔐 **Cybersecurity & Security Research**
+* 🐍 **Python Development**
+* ⚙️ **C / C++ & Low-Level Programming**
+* 📱 **Flutter & Application Development**
+* 🤖 **AI & Local LLMs**
+* 🦀 **Rust & Systems-Oriented Programming**
 
-I enjoy moving between **high-level application development** and **low-level systems/security work**.
+I'm currently focused on improving my engineering fundamentals, building useful software, and turning my experiments into reliable projects.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
+### 💻 Programming Languages
 
-![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge\&logo=python\&logoColor=00E5B0)
-![C](https://img.shields.io/badge/C-111111?style=for-the-badge\&logo=c\&logoColor=00E5B0)
-![C++](https://img.shields.io/badge/C++-111111?style=for-the-badge\&logo=cplusplus\&logoColor=00E5B0)
-![Rust](https://img.shields.io/badge/Rust-111111?style=for-the-badge\&logo=rust\&logoColor=00E5B0)
-![Dart](https://img.shields.io/badge/Dart-111111?style=for-the-badge\&logo=dart\&logoColor=00E5B0)
-![Bash](https://img.shields.io/badge/Bash-111111?style=for-the-badge\&logo=gnubash\&logoColor=00E5B0)
-![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge\&logo=javascript\&logoColor=00E5B0)
-![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge\&logo=html5\&logoColor=00E5B0)
-![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge\&logo=css3\&logoColor=00E5B0)
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black"/>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bash-121011?style=flat&logo=gnu-bash&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+</p>
 
-### Frameworks & Backend
+### 🚀 Frameworks & Backend
 
-![Flutter](https://img.shields.io/badge/Flutter-111111?style=for-the-badge\&logo=flutter\&logoColor=00E5B0)
-![FastAPI](https://img.shields.io/badge/FastAPI-111111?style=for-the-badge\&logo=fastapi\&logoColor=00E5B0)
-![Flask](https://img.shields.io/badge/Flask-111111?style=for-the-badge\&logo=flask\&logoColor=00E5B0)
+<p>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/>
+</p>
 
-### Databases
+### 🗄️ Databases
 
-![SQLite](https://img.shields.io/badge/SQLite-111111?style=for-the-badge\&logo=sqlite\&logoColor=00E5B0)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge\&logo=postgresql\&logoColor=00E5B0)
+<p>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
+</p>
 
-### Systems & Security
+### 🐧 Systems & Security
 
-![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge\&logo=linux\&logoColor=00E5B0)
-![GCC](https://img.shields.io/badge/GCC-111111?style=for-the-badge\&logo=gnu\&logoColor=00E5B0)
-![GDB](https://img.shields.io/badge/GDB-111111?style=for-the-badge\&logo=gnu\&logoColor=00E5B0)
-![Make](https://img.shields.io/badge/Make-111111?style=for-the-badge\&logo=gnu\&logoColor=00E5B0)
+<p>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/GCC-555555?style=flat&logo=gnu&logoColor=white"/>
+<img src="https://img.shields.io/badge/GDB-555555?style=flat&logo=gnu&logoColor=white"/>
+<img src="https://img.shields.io/badge/Make-427819?style=flat&logo=gnu&logoColor=white"/>
+</p>
 
-### AI
+### 🤖 AI
 
-![Ollama](https://img.shields.io/badge/Ollama-111111?style=for-the-badge\&logo=ollama\&logoColor=00E5B0)
-![LLM](https://img.shields.io/badge/LLMs-111111?style=for-the-badge\&logo=openai\&logoColor=00E5B0)
-![AI APIs](https://img.shields.io/badge/AI_APIs-111111?style=for-the-badge\&logo=googlecloud\&logoColor=00E5B0)
+<p>
+<img src="https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white"/>
+<img src="https://img.shields.io/badge/LLMs-00E5B0?style=flat"/>
+<img src="https://img.shields.io/badge/AI%20APIs-6C63FF?style=flat"/>
+</p>
 
-### Tools
+### 🧰 Tools
 
-![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge\&logo=git\&logoColor=00E5B0)
-![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge\&logo=github\&logoColor=00E5B0)
-![VS Code](https://img.shields.io/badge/VS_Code-111111?style=for-the-badge\&logo=visualstudiocode\&logoColor=00E5B0)
-![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge\&logo=docker\&logoColor=00E5B0)
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔓 CrackMe
+### 🔐 [CrackMe](https://github.com/Mohamed-Abdelrahman0/CrackMe)
 
-Educational reverse-engineering challenge written in C.
+An educational reverse-engineering challenge written in **C**, created to practice binary analysis, debugging, and problem solving.
 
-Focused on:
-
-* Binary analysis
-* Debugging
-* Reverse engineering
-* Problem solving
-
-**Repository:**
-https://github.com/Mohamed-Abdelrahman0/CrackMe
+`C` `Reverse Engineering` `Security`
 
 ---
 
-### 🛡️ SentinelCore
+### 🛡️ [SentinelCore](https://github.com/Mohamed-Abdelrahman0/SentinelCore)
 
-Educational malware behavior simulation project created for security analysis and development learning.
+An educational malware behavior simulation project created for security analysis and development learning.
 
-**Repository:**
-https://github.com/Mohamed-Abdelrahman0/SentinelCore
+`C` `Cybersecurity` `Malware Analysis`
 
 ---
 
-### 🔬 BFE
+### 🔎 [bfe](https://github.com/Mohamed-Abdelrahman0/bfe)
 
 A zero-dependency byte-level file scanner for analyzing suspicious patterns, payloads, and potential malware indicators.
 
-Written in Rust.
-
-**Repository:**
-https://github.com/Mohamed-Abdelrahman0/bfe
+`Rust` `File Analysis` `Security Research`
 
 ---
 
-### 🐍 hero-zan
+### 🐍 [hero-zan](https://github.com/Mohamed-Abdelrahman0/hero-zan)
 
-Python-based experimentation and automation project.
+A Python project built around experimentation and automation.
 
-**Repository:**
-https://github.com/Mohamed-Abdelrahman0/hero-zan
-
----
-
-### 📈 Price Tracker
-
-Python project focused on price tracking and automated data collection.
-
-**Repository:**
-https://github.com/Mohamed-Abdelrahman0/price-tracker
+`Python` `Automation`
 
 ---
 
-### 🤖 Auto Poster
+### 📈 [price-tracker](https://github.com/Mohamed-Abdelrahman0/price-tracker)
 
-Python automation project for managing and publishing content.
+A Python-based project for tracking product prices and experimenting with automated data collection.
 
-**Repository:**
-https://github.com/Mohamed-Abdelrahman0/auto_poster
+`Python` `Automation`
 
 ---
 
-## 🧠 Currently Learning
+### 🤖 [auto_poster](https://github.com/Mohamed-Abdelrahman0/auto_poster)
+
+A Python automation project for managing and publishing content.
+
+`Python` `Automation`
+
+---
+
+## 📚 Currently Learning
 
 ```text
-┌──────────────────────────────────────────────┐
-│              CURRENTLY LEARNING              │
-├──────────────────────────────────────────────┤
-│                                              │
-│  Rust              → Deeper systems work    │
-│  C / C++           → Low-level programming  │
-│  Linux             → Systems & internals    │
-│  Cybersecurity     → RE / Exploitation      │
-│  AI / LLMs         → Local AI systems       │
-│                                              │
-└──────────────────────────────────────────────┘
+┌───────────────────────────────────────┐
+│           CURRENT FOCUS               │
+├───────────────────────────────────────┤
+│                                       │
+│  ⚙️  C / C++                          │
+│      └── Low-Level Programming        │
+│                                       │
+│  🐧  Linux                            │
+│      └── Linux Internals              │
+│                                       │
+│  🔐  Security                         │
+│      └── Reverse Engineering          │
+│                                       │
+│  🦀  Rust                             │
+│      └── Systems Programming          │
+│                                       │
+│  🏗️  Backend Engineering             │
+│                                       │
+│  🤖  AI Systems                       │
+│                                       │
+└───────────────────────────────────────┘
 ```
 
 ---
 
 ## 🐧 Linux
 
-My main development environment is **Linux**.
+Linux is a big part of how I learn.
 
-I enjoy working close to the system:
+I enjoy exploring the system, building tools, debugging software, and understanding what's happening underneath the abstractions.
 
 ```bash
 $ whoami
-mohamed
+Mohamed
 
 $ uname -o
 GNU/Linux
 
-$ cat /etc/os-release
-Arch Linux
-
-$ echo "build → break → understand → rebuild"
-build → break → understand → rebuild
+$ echo "Build. Break. Understand. Repeat."
+Build. Break. Understand. Repeat.
 ```
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Stats
 
-Instead of relying on third-party dynamic statistics that can randomly break, I prefer keeping this profile focused on:
+<div align="center">
 
-* Real repositories
-* Real projects
-* Contributions
-* Technical work
-* Open-source activity
+<img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Abdelrahman0&show_icons=true&theme=dark&hide_border=true&count_private=true"
+width="48%"
+alt="GitHub Stats"/>
 
-You can see my latest work directly through my repositories and contribution graph.
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Abdelrahman0&layout=compact&theme=dark&hide_border=true"
+width="40%"
+alt="Top Languages"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohamed-Abdelrahman0&theme=github_dark"
+width="95%"
+alt="GitHub Profile Details"/>
+
+</div>
 
 ---
 
 ## 💻 Code Cycle
 
-```text
-Idea
-  ↓
-Research
-  ↓
-Build
-  ↓
-Break
-  ↓
-Debug
-  ↓
-Understand
-  ↓
-Improve
-  ↓
-Repeat
-```
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png"
+width="90"
+alt="Broken system"/>
+
+    
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png"
+width="90"
+alt="It's working"/>
+
+    
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png"
+width="90"
+alt="It works but you don't know why"/>
+
+<br>
+
+**🤯 → 😌 → 😳**
+
+### It works. I have no idea why.
+
+</div>
 
 ---
 
 <div align="center">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="420">
+### Building software. Exploring systems. Learning every day.
 
-### Build things. Break things. Understand things.
+<br>
+
+**Mohamed Abdelrahman**
 
 </div>
