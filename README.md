@@ -1,10 +1,20 @@
 <div align="center">
 
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true"
+  alt="Hello Coders"
+  width="60%"/>
+
+<br>
+
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true"
+  alt="Developer Working"
+  width="40%"/>
+
+<br><br>
+
 # Mohamed Abdelrahman
 
 ### Software Developer • Security Enthusiast • Linux & AI
-
-I build practical software, explore how systems work under the hood, and experiment with security and AI.
 
 **Python • C • C++ • Rust • Dart • Linux • Security • AI**
 
@@ -18,25 +28,25 @@ I build practical software, explore how systems work under the hood, and experim
 
 ## 🧠 About Me
 
-I'm a software developer who enjoys building things, breaking things, and understanding how they work.
+I'm a software developer who enjoys building things, exploring systems, and understanding how software works under the hood.
 
 My main interests are:
 
-* 🐧 Linux & systems programming
-* 🔐 Cybersecurity & security research
-* 🐍 Python development
-* ⚙️ C / C++ and low-level programming
-* 📱 Flutter & application development
-* 🤖 AI and local LLMs
-* 🦀 Rust and systems-oriented programming
+* 🐧 **Linux & Systems Programming**
+* 🔐 **Cybersecurity & Security Research**
+* 🐍 **Python Development**
+* ⚙️ **C / C++ & Low-Level Programming**
+* 📱 **Flutter & Application Development**
+* 🤖 **AI & Local LLMs**
+* 🦀 **Rust & Systems-Oriented Programming**
 
-I'm currently focused on improving my engineering fundamentals and turning more of my experiments into production-quality software.
+I'm currently focused on improving my engineering fundamentals, building useful software, and turning my experiments into production-quality projects.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
+### 💻 Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat\&logo=c\&logoColor=black)
@@ -48,30 +58,31 @@ I'm currently focused on improving my engineering fundamentals and turning more 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat\&logo=css3\&logoColor=white)
 
-### Frameworks & Backend
+### 🚀 Frameworks & Backend
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat\&logo=flutter\&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat\&logo=fastapi\&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat\&logo=flask\&logoColor=white)
 
-### Databases
+### 🗄️ Databases
 
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat\&logo=sqlite\&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat\&logo=postgresql\&logoColor=white)
 
-### Systems & Security
+### 🐧 Systems & Security
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat\&logo=linux\&logoColor=black)
 ![GCC](https://img.shields.io/badge/GCC-555555?style=flat\&logo=gnu\&logoColor=white)
 ![GDB](https://img.shields.io/badge/GDB-555555?style=flat\&logo=gnu\&logoColor=white)
 ![Make](https://img.shields.io/badge/Make-427819?style=flat\&logo=gnu\&logoColor=white)
 
-### AI
+### 🤖 AI
 
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat\&logo=ollama\&logoColor=white)
-![AI](https://img.shields.io/badge/AI-412991?style=flat)
+![LLMs](https://img.shields.io/badge/LLMs-412991?style=flat)
+![AI%20APIs](https://img.shields.io/badge/AI%20APIs-6C63FF?style=flat)
 
-### Tools
+### 🧰 Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)
@@ -110,7 +121,7 @@ A zero-dependency byte-level file scanner for analyzing suspicious patterns, pay
 
 A Python-based project focused on automation and experimentation.
 
-**Python**
+**Python • Automation**
 
 ---
 
@@ -133,24 +144,28 @@ A Python automation project for managing and publishing content.
 ## 📚 Currently Learning
 
 ```text
-C / C++
-     ↓
-Low-Level Programming
-     ↓
-Linux Internals
-     ↓
-Reverse Engineering
-     ↓
-Cybersecurity
-
-        +
-
-Rust
-Backend Engineering
-AI Systems
+┌───────────────────────────────────────┐
+│           CURRENT FOCUS               │
+├───────────────────────────────────────┤
+│                                       │
+│  ⚙️  C / C++                          │
+│      └── Low-Level Programming        │
+│                                       │
+│  🐧  Linux                            │
+│      └── Linux Internals              │
+│                                       │
+│  🔐  Security                         │
+│      └── Reverse Engineering          │
+│                                       │
+│  🦀  Rust                             │
+│      └── Systems Programming          │
+│                                       │
+│  🏗️  Backend Engineering              │
+│                                       │
+│  🤖  AI Systems                       │
+│                                       │
+└───────────────────────────────────────┘
 ```
-
-I'm continuously improving my understanding of how software works from the application layer down to the system level.
 
 ---
 
@@ -165,7 +180,7 @@ Mohamed
 $ uname -o
 GNU/Linux
 
-$ cat /etc/motd
+$ echo "Build. Break. Understand. Repeat."
 Build. Break. Understand. Repeat.
 ```
 
@@ -175,9 +190,17 @@ Build. Break. Understand. Repeat.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Abdelrahman0&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" width="48%">
+<img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Abdelrahman0&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" width="48%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Abdelrahman0&layout=compact&theme=dark&hide_border=true" width="40%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Abdelrahman0&layout=compact&theme=dark&hide_border=true" width="40%"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohamed-Abdelrahman0&theme=github-compact&hide_border=true&area=true" width="95%"/>
 
 </div>
 
@@ -187,9 +210,27 @@ Build. Break. Understand. Repeat.
 
 <div align="center">
 
-### 🤯 → 😌 → 😳 → 🔥
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png"
+  width="10%"
+  alt="Broken system"/>
 
-**It works. I have no idea why.**
+     
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png"
+  width="10%"
+  alt="It's working"/>
+
+     
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png"
+  width="10%"
+  alt="It works but I don't know why"/>
+
+<br>
+
+**🤯 → 😌 → 😳**
+
+### It works. I have no idea why.
 
 </div>
 
